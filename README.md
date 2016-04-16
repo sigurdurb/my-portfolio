@@ -8,7 +8,18 @@ It reads lat– and longitude from a gpx file along with descriptions so MapKit 
 ![ATM_kirkjusandur](https://cloud.githubusercontent.com/assets/10588202/14580571/aaab989c-03c0-11e6-8896-a86085ba0640.png)
 ![ATM_kolaportid](https://cloud.githubusercontent.com/assets/10588202/14580574/ad878166-03c0-11e6-86ab-b095e461def0.png)
 
-## Retail shop programmed in AngularJS and styled with Angular-UI-bootstrap
+## .NET app: An ASP.NET Web application, an MVC app with a remote database. 
+####Languages: C#, css, javascript
+### Social platform app for people wanting to become heroes. Follow other heroes, make/accept challenges, form groups, post your deeds and receive points depending on the quality of your post, ten rise up through the rankings and become true heroes!
+![herobook1](https://cloud.githubusercontent.com/assets/10588202/14581440/16091008-03dd-11e6-906c-31b1d34ba643.PNG)
+![herobook3](https://cloud.githubusercontent.com/assets/10588202/14581442/1a60759c-03dd-11e6-8919-96107065c1f7.PNG)
+
+![herobook4search](https://cloud.githubusercontent.com/assets/10588202/14581444/22adcee8-03dd-11e6-8c9d-6e557b9ca1d9.PNG)
+![herobook4adminzone](https://cloud.githubusercontent.com/assets/10588202/14581447/37e334f6-03dd-11e6-8f14-e080277c0500.PNG)
+![herobook4adminzone2](https://cloud.githubusercontent.com/assets/10588202/14581448/3ad31e56-03dd-11e6-8ec0-2841a3fc84b9.PNG)
+![herobookleaderboard](https://cloud.githubusercontent.com/assets/10588202/14581449/3c96cdd2-03dd-11e6-8d9b-a4022f5cd80e.PNG)
+
+## Retail shop application programmed in AngularJS and styled with Angular-UI-bootstrap
 
 ![AngRetail](https://cloud.githubusercontent.com/assets/10588202/14580381/c4274f4c-03ba-11e6-9e8c-6da0c28bb42c.png)
 ![AngRetail](https://cloud.githubusercontent.com/assets/10588202/14580385/c9bf04ae-03ba-11e6-951a-84965c8dd3b1.png)
