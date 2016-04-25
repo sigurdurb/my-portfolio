@@ -10,7 +10,7 @@ It reads lat– and longitude from a gpx file along with descriptions so MapKit 
 
 ## .NET app: An ASP.NET Web application, an MVC app with a remote database. 
 ####Languages: C#, css, javascript
-### Social platform app for people wanting to become heroes. Follow other heroes, make/accept challenges, form groups, post your deeds and receive points depending on the quality of your post, ten rise up through the rankings and become true heroes!
+<span style="font-size:14px; ">Social platform app for people wanting to become heroes. Follow other heroes, make/accept challenges, form groups, post your deeds and receive points depending on the quality of your post, ten rise up through the rankings and become true heroes!</span>
 ![herobook1](https://cloud.githubusercontent.com/assets/10588202/14581440/16091008-03dd-11e6-906c-31b1d34ba643.PNG)
 ![herobook3](https://cloud.githubusercontent.com/assets/10588202/14581442/1a60759c-03dd-11e6-8919-96107065c1f7.PNG)
 
@@ -47,4 +47,8 @@ It reads lat– and longitude from a gpx file along with descriptions so MapKit 
 ![AngChat](https://cloud.githubusercontent.com/assets/10588202/14580280/5cafe966-03b8-11e6-874b-f7cefd797329.png)
 
 
+##Files:
 
+<span style="font-size:30px;">
+[Protractor test sample](ProtractorTestsSample.js)
+<span>
